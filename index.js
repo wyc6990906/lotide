@@ -15,8 +15,9 @@ const flatten = require('./flatten')
 const letterPositions = require('./letterPositions')
 const map = require("./map")
 const takeUntil = require("./takeUntil")
+const without = require("./without")
 
 module.exports = {
   head, tail, middle, eqArray, assertArraysEqual, assertEqual, eqObjects, assertObjectsEqual, countLetters,
-  countOnly, findKey, findKeyByValue,flatten,letterPositions,map,takeUntil
+  countOnly, findKey, findKeyByValue,flatten,letterPositions,map,takeUntil,without
 }
