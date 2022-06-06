@@ -1,7 +1,6 @@
 // FUNCTION IMPLEMENTATION
 const eqArrays = require('../eqArrays')
 const assertArraysEqual = require("../assertArraysEqual")
-
 // ACTUAL FUNCTION
 const middle = require("../middle")
 

@@ -1,0 +1,26 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "lotide project",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyc6990906/lotide.git"
+  },
+  "author": "Dylan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyc6990906/lotide/issues"
+  },
+  "homepage": "https://github.com/wyc6990906/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
