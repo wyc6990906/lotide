@@ -11,5 +11,6 @@ const countLetters = require('./countLetters')
 
 
 module.exports = {
-  head, tail, middle, eqArray, assertArraysEqual, assertEqual, eqObjects,assertObjectsEqual,countLetters
+  head, tail, middle, eqArray, assertArraysEqual, assertEqual, eqObjects,assertObjectsEqual,countLetters,
+
 }
