@@ -11,9 +11,10 @@ const countLetters = require('./countLetters')
 const countOnly = require('./countOnly')
 const findKey = require('./findKey')
 const findKeyByValue = require('./findKeyByValue')
+const flatten = require('./flatten')
 
 
 module.exports = {
   head, tail, middle, eqArray, assertArraysEqual, assertEqual, eqObjects, assertObjectsEqual, countLetters,
-  countOnly, findKey, findKeyByValue
+  countOnly, findKey, findKeyByValue,flatten
 }
