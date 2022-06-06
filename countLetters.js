@@ -23,6 +23,7 @@ const countLetters = function (str) {
   return result
 }
 
-
 // TEST CODE
 assertEqual(countLetters("lighthouse in the house")['t'], 2);
+
+module.exports = countLetters
